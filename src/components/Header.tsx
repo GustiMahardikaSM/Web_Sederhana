@@ -8,6 +8,7 @@ export const Header = () => {
           <div className="flex-shrink-0">
             <h1 className="text-2xl font-bold text-blue-600">ShopStore</h1>
           </div>
+          {/* Navigasi bar */}
           <nav className="hidden md:flex space-x-8">
             <a href="#" className="text-gray-700 hover:text-gray-900">Home</a>
             <a href="#" className="text-gray-700 hover:text-gray-900">Products</a>
